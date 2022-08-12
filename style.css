@@ -1,0 +1,292 @@
+header{
+  margin: 0px 0px;
+  height: 15px; 
+  background-color:rgb(255, 255, 255); 
+  padding: 30px 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;  
+  font-weight: 500;
+  color:rgb(35, 31, 32);
+  
+  }
+  .mainsite{
+  margin: 0px 570px 0px 20px;     
+  padding: 14px 6px;
+  vertical-align: top;
+  font-size: 20px;
+  word-spacing: 1px;
+  }
+  #start-button{
+    background-color: rgb(251, 14, 125);
+    height: 50px;
+    width: 200px;
+    margin: 0px 0px 0px 20px;
+    border: none;
+    padding: 14px 6px;
+    font-size: 16px;
+    color: #ffffff;
+    border-radius: 8px;
+    vertical-align: top;
+    cursor: pointer;
+  }
+  #start-button:hover{
+    background-color: rgb(156, 6, 76);
+    
+  }
+
+  #sign-in{
+    vertical-align: middle;
+    margin: 0px 0px 0px 13px;
+    font-size: 18px;
+    text-decoration: none;
+
+  }
+  .main-body{
+  margin: 30px 0px 0px 0px;
+  border: 2px solid none; 
+  background-image: url(../family-health.jpg);
+  height: 700px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  text-align-last: center;
+  height: 500px;
+  width: 100%;
+  color: rgb(251, 14, 125);
+  padding: 200px 0px 0px 0px;
+
+  }
+  h1{
+    font-family: inter;
+    font-size: 78px;
+    word-spacing: px;
+    font-weight: 1000px;
+    line-height: 40px
+    }
+    p{
+      font-size: 25px;
+      font-family: Inter;
+      font-weight: 500;
+      color:#ffffff;
+      line-height: 35px;
+    }
+
+    #second-button{
+      background-color: rgb(251, 14, 125);
+      margin: 100px 0px 0px 20px;
+      border: none;
+      padding: 20px 25px;
+      font-size: 16px;
+      color: #ffffff;
+      border-radius: 8px;
+      cursor: pointer;
+      
+    }
+    #second-button:hover{
+      background-color: rgb(156, 6, 76);
+    }
+    #h2{
+    margin: 40px 0px 0px 0px;
+    text-align-last: center;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 15px;
+    line-height: 100px;
+
+    }
+    .main-body2{
+      margin: 0px 100px 0px 100px;
+      text-align-last: center;
+      font-size: 25px;
+      font-family: inter;
+      line-height: 35px;
+    }
+    #main-body3 {
+      width: 1400px;
+      height: 300px;
+      display: flex;
+      flex-wrap: wrap;
+      flex-flow: column wrap;
+      font-size: 20px;
+    }
+    #main-body3 div {
+      width: auto;
+      height: 250px;
+      text-align-last: center;
+      line-height: 35px;
+    }
+    #mainbody4{
+      background-color: aqua;
+      width: 1400px;
+      height: 900px;
+      display: flex;
+      flex-wrap: wrap;
+      flex-flow: column wrap;
+    }
+    
+    #price{
+      color: rgb(161, 2, 76);
+      display: block;
+      font-family: Arial;
+      font-size: 48px;
+      font-weight: 800;
+      padding: 0px 0px 0px 00px;
+      line-height: 60px;
+      }
+
+    .mainbody4-1{
+      width: 700px;
+      height: 450px;
+    }
+
+    .mainbody4-2{
+      width: 700px;
+      height: 450px;
+      background-color: rgb(248, 231, 152);
+    }
+
+    .mainbody4-3{
+      width: 700px;
+      height: 450px;
+      background-color: rgb(41, 41, 83);
+      line-height: 50px;
+    }
+
+    .mainbody4-4{
+      width: 700px;
+      height: 450px;
+      background-color: rgb(248, 231, 152);
+      padding: 0px 0px 0px 0px;
+      image-orientation: from-image;
+    }
+
+    .mainbody4-2 div{
+      padding: 0px 0px 0px 90px;
+      margin: 0px 0px 0px 0px;
+      font-size: 20px;
+      font-family: arial;
+      font-weight: 500;
+      color:rgb(0, 0, 0);
+      width: 700px;
+      height: 450px;
+      line-height: 30px;
+    }
+
+    .mainbody4-3 div{
+      padding: 0px 20px 0px 40px;
+      margin: 50px 0px 0px 40px;
+      font-size: 48px;
+      font-weight: 800;
+      font-family: arial;
+      color:rgb(255, 255, 255);
+      width: 700px;
+      height: 450px;
+      line-height: 60px;
+    }
+
+   .button-price{
+    background-color: rgb(251, 14, 125);
+    margin: 0px 0px 0px 0px;
+    border: none;
+    padding: 24px 30px 24px 36px;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 8px;
+    vertical-align: top;
+    cursor: pointer;
+   }
+
+   .button-price:hover{
+    background-color: rgb(156, 6, 76);
+
+   }
+   .covered{
+     word-spacing: 30px;
+     margin: 0px 0px 0px 100px;
+     padding: 0px 0px 0px 0px;
+   }
+
+   .mainbody5{
+     font-family: arial;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1310px;
+    height: 900px;
+    padding: 40px 0px 0px 90px;
+    margin: 0px 0px 0px 0px;
+   }
+
+   .mainbody5 div{
+    font-size: 20px;
+    margin: 0px 30px 0px 0px;
+    line-height: 10px;
+   }
+
+   .mainbody5 h1{
+     color: black;
+     margin: 20px 10px 0px 190px;
+     padding: 40px 0px 0px 60px;
+     font-weight: 900;
+     font-size: 60px;
+   }
+
+   .mainbody5 div button{
+    font-size: 16px;
+    margin: 0px 30px 0px 0px;
+    width: 360px;
+    height: 260px;
+    border-radius: 20px;
+    border: 1px solid rgb(239 239 239);
+    background-color:rgb(253 253 255);
+    box-shadow: 5px 25px 70px 15px rgb(239 239 223);
+    margin: 0px 0px 0px 0px;
+    padding: 0px 20px 0px 45px;
+    text-align: left;
+    line-height: 30px;
+   }
+
+   .mainbody6{
+     font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: 140px 0px 0px 0px;
+    padding: 25px 20px 0px 20px;
+    font-weight: 900;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(255, 231, 242);
+    width: 1400px;
+    height: 500px;
+  }
+
+  .mainbody7{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0px 0px 0px 0px;
+    padding: 45px 20px 0px 20px;
+    font-weight: 1200;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(8, 2, 82);
+    width: 1400px;
+    height: 500px;
+    word-spacing: 0px;
+ }
+
+ .mainbody7 h2 span{
+   font-size: 18px;
+   font-weight: 600;
+   word-spacing: 3px;
+ }
+
+.mainbody7 button{
+  margin: 10px 0px 0px 0px;
+  background-color: rgb(251, 14, 125);
+  margin: 0px 0px 0px 20px;
+  border: none;
+  padding: 20px 25px;
+  font-size: 16px;
+  color: #ffffff;
+  border-radius: 8px;
+  cursor: pointer;
+}
